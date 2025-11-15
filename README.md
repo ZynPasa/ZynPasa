@@ -1,16 +1,6 @@
 ## Hi there 👋
 
 <h1 align="center">👨‍💻 Hi, I'm ZynPasa (Spechy)</h1>
-<h3 align="center">.NET Developer • Kiosk Systems • Modular Architectures</h3>
-
----
-
-## 🚀 About Me
-- 🔹 Full-stack developer focusing on **Enterprise & Kiosk Systems**
-- 🔹 .NET 8 ile modüler, scalable hastane kiosk projeleri geliştiriyorum  
-- 🔹 API-driven mimari, DTO-based integration, Swagger entegrasyonlarında deneyimli  
-- 🔹 Admin panel, RBAC, POS entegrasyonları ve gerçek zamanlı veri işleme üzerine çalışıyorum  
-- 🔹 Temiz kod, katmanlı mimari ve maintainable yapı benim için öncelik  
 
 ---
 
@@ -48,29 +38,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
----
-
-## 🏗️ Projects & Focus Areas
-
-### 🔹 Ravika Hospital Kiosk Ecosystem
-- Modüler .NET 8 mimarisi  
-- DTO-based entegrasyon  
-- Randevu, POS, iletişim, slot sistemi  
-- Admin panel + dynamic config  
-- Hibrit yapı: Kiosk modülleri + dış servisler  
-
-### 🔹 Admin Panel
-- RBAC  
-- Hospital management (CRUD)  
-- Logging & Error tracking  
-- Theme-based layout (AdminLTE v4)
-
-### 🔹 API Integration Layer
-- Swagger 60+ uç nokta analizi  
-- Hasta/slot/randevu entegrasyonları  
-- Exception wrapper + API response standardization  
-
 ---
 
 ## 📊 GitHub Stats  
@@ -78,12 +45,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cizgimasallari&show_icons=true&theme=tokyonight"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cizgimasallari&theme=tokyonight"/>
 </p>
-
----
-
-## 📬 Contact
-📩 **Email:** (buraya ekleyebilirsin)  
-💼 **LinkedIn:** (varsa ekleyebilirsin)  
 
 ---
 ⭐ *Thanks for visiting my GitHub profile!*
