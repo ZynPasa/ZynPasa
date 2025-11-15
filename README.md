@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">👨‍💻 Hi, I'm ZynPasa (Spechy)</h1>
+<h1 align="center">👨‍💻 Hi, I'm ZynPasa</h1>
 
 ---
 
@@ -38,13 +38,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cizgimasallari&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cizgimasallari&theme=tokyonight"/>
-</p>
-
 ---
 ⭐ *Thanks for visiting my GitHub profile!*
